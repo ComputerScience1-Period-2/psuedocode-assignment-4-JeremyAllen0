@@ -3,6 +3,7 @@ Jeremy Allen
 Instructions:
 Deal out all of the cards evenly to all of the players.
 
+While (somebody hasn't won the game) {
 Player 1 which is to the left of the dealer plays their card.
 if the card that player 1 played is a jack:
 	Slap the jack.
@@ -35,3 +36,4 @@ if the card that you played is a jack:
 	Check to see if one player has all of the cards and won.
 if the card isnt a jack:
 	then player 1 plays a card.
+	}
