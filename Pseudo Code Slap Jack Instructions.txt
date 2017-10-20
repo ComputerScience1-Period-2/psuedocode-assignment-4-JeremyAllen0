@@ -2,6 +2,7 @@ Slap Jack Instructions
 Jeremy Allen
 Instructions:
 Deal out all of the cards evenly to all of the players.
+
 Player 1 which is to the left of the dealer plays their card.
 if the card that player 1 played is a jack:
 	Slap the jack.
@@ -12,6 +13,7 @@ if the card that player 1 played is a jack:
 	Check to see if one player has all of the cards and won.
 if the card isnt a jack:
 	then player 2 plays a card.
+
 Player 2 plays a card.
 if the card that player 2 played is a jack:
 	Slap the jack.
@@ -22,6 +24,7 @@ if the card that player 2 played is a jack:
 	Check to see if one player has all of the cards and won.
 if the card isnt a jack:
 	then you play a card.
+
 You play a card.
 if the card that you played is a jack:
 	Slap the jack.
